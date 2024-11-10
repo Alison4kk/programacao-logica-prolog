@@ -11,17 +11,17 @@ O repositorio inclue 5 sistemas que aplicam conceitos da programação logica co
 ## Sistemas
 
 1. **Diagnóstico Médico**: Criar um sistema especialista que sugira diagnósticos médicos com base em
-sintomas informados pelo usuário. ![image](https://i.imgur.com/FlnE0VA.png)
+sintomas informados pelo usuário.  ![image](https://i.imgur.com/FlnE0VA.png)
 
 2. **Análise de Problemas de Veículos**: Desenvolver um sistema especialista que ajude a identificar problemas comuns
-em veículos com base em sintomas ou comportamentos relatados.![image](https://i.imgur.com/6ALN2cm.png)
+em veículos com base em sintomas ou comportamentos relatados.  ![image](https://i.imgur.com/6ALN2cm.png)
 
 3. **Recomendações de Livros**: Criar um sistema especialista que recomende livros com base em preferências de
-gênero e interesses do usuário. ![image](https://i.imgur.com/a4Lys8b.png)
+gênero e interesses do usuário.  ![image](https://i.imgur.com/a4Lys8b.png)
 
 4. **Recomendação de Treinos de Academia**: Desenvolver um sistema especialista que sugira treinos de academia baseados
 em objetivos, como perder peso, ganhar massa muscular ou melhorar o condicionamento
-físico. ![image](https://i.imgur.com/JyTRPuO.png)
+físico.  ![image](https://i.imgur.com/JyTRPuO.png)
 
 
 5. **Análise de Investigação Criminal**: Criar um sistema especialista que auxilie na análise de casos criminais, sugerindo
